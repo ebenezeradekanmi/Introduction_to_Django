@@ -1,1 +1,4 @@
-# Introduction_to_Django
+# LibraryProject
+
+This is a Django project created as part of the ALX Django Learn Lab.
+# Alx_DjangoLearnLab
